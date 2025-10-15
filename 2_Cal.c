@@ -1,3 +1,4 @@
+// Write a program to input two numbers and display their sum, difference, product, and quotient.
 #include <stdio.h>
 int main()
 {
@@ -10,4 +11,5 @@ int main()
     printf("The product of two numbers is : %d\n",(a*b));
     printf("The quotient of two numbers is : %d\n",(a/b));
     return 0;
+
 }
