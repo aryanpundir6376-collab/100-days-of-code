@@ -1,3 +1,4 @@
+//Write a program to calculate the area and perimeter of a rectangle given its length and breadth.
 #include<stdio.h>
 int main()
 {
@@ -10,4 +11,5 @@ int main()
     printf("THE AREA OF A RECTANGLE IS :%f \n",(l*b));
     printf("THE PERIMETER OF A RECTANGLE IS : %f",(2*(l+b)));
     return 0;
+
 }
